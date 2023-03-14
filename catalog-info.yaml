@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: "ambulanciastap2"
+  description: YELB Application
 spec:
-  owner: user:nttdata
+  owner: nttdata
   lifecycle: experimental
+  domain: cloud-apps
