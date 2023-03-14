@@ -3,6 +3,8 @@ kind: Location
 metadata:
   name: "ambulancias-tap-2"
   description: "ambulanciastap2 APP"
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
 spec:
   owner: nttdata
   lifecycle: experimental
