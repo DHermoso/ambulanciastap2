@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: ambulancias tap 2
-  description: YELB Application ambulanciastap2
+  name: "ambulancias tap 2"
+  description: "YELB Application ambulanciastap2"
 spec:
   owner: nttdata
   lifecycle: experimental
